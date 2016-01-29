@@ -1,0 +1,11 @@
+{
+  "name": "hrqr",
+  "version": "1.0.0",
+  "description": "A Node Library to Create Human Readable Quick Response Codes",
+  "main": "hrqr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TCYRUS <tcyrus@users.noreply.github.com> (http://tcyr.us/)",
+  "license": "ISC"
+}
